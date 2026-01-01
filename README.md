@@ -16,6 +16,9 @@ A simple web app for tracking habits, built with **Laravel** (PHP) and **JavaScr
 ![Completed Habit](assets/screenshots/screenshot2.jpg)  s
 *Example of a "Completed" and "Missed" Date marked in the calendar.*
 
+![Dark Mode](assets/screenshots/screenshot3.jpg)  s
+*Example of a "Completed" and "Missed" Date marked in the calendar.*
+
 ## Installation
 
 Follow the steps below to get this project up and running on your local machine for development and testing purposes.
