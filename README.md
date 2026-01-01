@@ -10,13 +10,13 @@ A simple web app for tracking habits, built with **Laravel** (PHP) and **JavaScr
 - **Interactive Calendar**: Uses **FullCalendar** for an interactive and visually appealing calendar view.
 
 ## Screenshots
-![Calendar View](assets/screenshots/screenshot1.jpg)  
+![Calendar View](assets/screenshots/screenshot1.JPG)  
 *Example of the Habit Tracker Calendar with habit states.*
 
-![Completed Habit](assets/screenshots/screenshot2.jpg)  s
+![Completed Habit](assets/screenshots/screenshot2.JPG)
 *Example of a "Completed" and "Missed" Date marked in the calendar.*
 
-![Dark Mode](assets/screenshots/screenshot3.jpg)  s
+![Dark Mode](assets/screenshots/screenshot3.JPG)
 *Example of a "Completed" and "Missed" Date marked in the calendar.*
 
 ## Installation
