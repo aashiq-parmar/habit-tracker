@@ -11,13 +11,13 @@ A simple web app for tracking habits, built with **Laravel** (PHP) and **JavaScr
 
 ## Screenshots
 ![Calendar View](assets/screenshots/screenshot1.JPG)  
-*Example of the Habit Tracker Calendar with habit states.*
+*Example of a "Completed" and "Missed" Date marked in the calendar in Light Mode.*
 
 ![Completed Habit](assets/screenshots/screenshot2.JPG)
-*Example of a "Completed" and "Missed" Date marked in the calendar.*
+*Example of a "Completed" and "Missed" Date marked in the calendar in Light Mode.*
 
 ![Dark Mode](assets/screenshots/screenshot3.JPG)
-*Example of a "Completed" and "Missed" Date marked in the calendar.*
+*Example of a "Completed" and "Missed" Date marked in the calendar in Dark Mode.*
 
 ## Installation
 
@@ -28,7 +28,6 @@ Follow the steps below to get this project up and running on your local machine 
 Before you begin, ensure you have the following installed:
 - PHP (>=7.4)
 - Composer
-- Node.js and npm
 - Laravel Installer (Optional, but recommended)
 
 ### Steps
@@ -93,10 +92,8 @@ To contribute:
 - Push to your fork (git push origin feature-branch).
 - Submit a pull request.
 
-License
------------
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Feel free to contact me if you have any questions!
 
-GitHub: @aashiq-parmar
+- GitHub: [@aashiq-parmar](https://github.com/aashiq-parmar)
+
